@@ -1,3 +1,3 @@
-# HocMay frontend
+# HocMay frontend đã chuyển repo
 
-Giao diện React cho API tìm kiếm bài viết. Xem [hướng dẫn chạy](huongdan.md).
+Frontend hiện nằm trong [thư mục fe của repo nghiep22/HocMay](https://github.com/nghiep22/HocMay/tree/main/fe). Repo này được lưu trữ để giữ lịch sử trước khi gộp.
